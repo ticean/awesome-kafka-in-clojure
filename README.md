@@ -41,6 +41,7 @@ Kafka and the Confluent Platform are awesome in Clojure.
 * [bobby/kafka-streams-clojure](https://github.com/bobby/kafka-streams-clojure)
 * [capitalone/cqrs-manager-for-distributed-reactive-services](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
 * [dvlopt/milena](https://github.com/dvlopt/milena)
+* [cddr/ksml](https://github.com/cddr/ksml)
 
 ## KSQL
 
