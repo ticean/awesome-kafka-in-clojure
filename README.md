@@ -26,7 +26,7 @@ Kafka and the Confluent Platform are awesome in Clojure.
 
 * [ymilky/franzy](https://github.com/ymilky/franzy)
 * [ccann/gregor](https://github.com/ccann/gregor)
-* [pyr/kinsky](https://github.com/ccann/gregor)
+* [pyr/kinsky](https://github.com/pyr/kinsky/)
 * [cognitect-labs/pedestal.kafka](https://github.com/cognitect-labs/pedestal.kafka)
 * [dvlopt/milena](https://github.com/dvlopt/milena)
 
