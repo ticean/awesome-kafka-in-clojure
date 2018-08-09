@@ -104,7 +104,7 @@ Listed Avro libraries must support complex and nested Avro types.
 
 ## Presentations
 
-* [Buidling a Data Pipeline with Kafka and Clojure - David Pick](https://www.youtube.com/watch?v=6xlyWjqFDWs)
+* [Building a Data Pipeline with Kafka and Clojure - David Pick](https://www.youtube.com/watch?v=6xlyWjqFDWs)
 * [One Million Clicks per Minute with Kafka and Clojure - Devon Peticolas](https://www.youtube.com/watch?v=VC_MTD68erY)
 * [Tame Kafka with Clojure - Andrea Crotti](https://www.youtube.com/watch?v=OC2KVaLQihs)
 * [The Database as a Value - Rich Hickey](https://www.infoq.com/presentations/Datomic-Database-Value)
