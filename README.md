@@ -24,6 +24,7 @@ Kafka and the Confluent Platform are awesome in Clojure.
 
 ## Kafka Producers & Consumers
 
+* [FundingCircle/jackdaw](https://github.com/FundingCircle/jackdaw)
 * [ymilky/franzy](https://github.com/ymilky/franzy)
 * [ccann/gregor](https://github.com/ccann/gregor)
 * [pyr/kinsky](https://github.com/pyr/kinsky/)
@@ -39,6 +40,7 @@ Kafka and the Confluent Platform are awesome in Clojure.
 
 Projects:
 
+* [FundingCircle/jackdaw](https://github.com/FundingCircle/jackdaw)
 * [bobby/kafka-streams-clojure](https://github.com/bobby/kafka-streams-clojure)
 * [capitalone/cqrs-manager-for-distributed-reactive-services](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
 * [dvlopt/milena](https://github.com/dvlopt/milena)
@@ -60,6 +62,7 @@ especially for beginners, so this section includes more description.
 
 Listed Avro libraries must support complex and nested Avro types.
 
+* [FundingCircle/jackdaw](https://github.com/FundingCircle/jackdaw)
 * [damballa/abracad](https://github.com/damballa/abracad)  
   A Clojure library for de/serializing Clojure data structures with Avro. The
   incumbent Avro library for Clojure. No support for GenericRecords or
