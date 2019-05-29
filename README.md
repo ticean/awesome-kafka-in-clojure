@@ -82,6 +82,9 @@ Listed Avro libraries must support complex and nested Avro types.
 * [pfeodrippe/spec-to-avro](https://github.com/pfeodrippe/spec-to-avro)  
   A work in progress to convert Clojure Specs to Avro. An incomplete work in
   progress but an interesting idea.
+* [piotr-yuxuan/dove](https://github.com/piotr-yuxuan/dove)
+  Infer specs from any Avro type. Think about `avro->spec`. Useful for generative
+  testing or pre-serialization validation.
 * [deercreeklabs/lancaster](https://github.com/deercreeklabs/lancaster)  
   An Apache Avro DSL and helper library
 
